@@ -7,3 +7,4 @@ O propósito desse material é ensinar mais ou menos como o React funciona por t
 - [1 - React sem React](./projetos/1-react-without-react)
 - [2 - React pré-histórico](./projetos/2-prehistory-react)
 - [1 - React com JSX](./projetos/3-jsx-react)
+- [4 - React falso](./projetos/4-fake-react)
